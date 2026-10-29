@@ -1,6 +1,6 @@
 {
   "name": "@deepwhale-cn/dsh-csv-diff",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "深鲸表格对比：两份 CSV 按关键列比较，列出新增、删除、修改的行",
   "type": "module",
   "license": "MIT",
