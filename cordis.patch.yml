@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-csv-diff 的组合层
+- insert:
+    - id: csv-diff
+      name: '@deepwhale-cn/dsh-csv-diff'
